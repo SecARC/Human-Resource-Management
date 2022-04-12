@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\come334-hw1-20170301006-TuğraGündüz\come334-hw1-20170301006-TuğraGündüz\bin\Debug\come334-hw1-20170301006-TuğraGündüz.exe.config
+C:\Users\PC\source\repos\come334-hw1-20170301006-TuğraGündüz\come334-hw1-20170301006-TuğraGündüz\bin\Debug\come334-hw1-20170301006-TuğraGündüz.exe
+C:\Users\PC\source\repos\come334-hw1-20170301006-TuğraGündüz\come334-hw1-20170301006-TuğraGündüz\bin\Debug\come334-hw1-20170301006-TuğraGündüz.pdb
+C:\Users\PC\source\repos\come334-hw1-20170301006-TuğraGündüz\come334-hw1-20170301006-TuğraGündüz\obj\Debug\come334-hw1-20170301006-TuğraGündüz.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\come334-hw1-20170301006-TuğraGündüz\come334-hw1-20170301006-TuğraGündüz\obj\Debug\come334_hw1_20170301006_TuğraGündüz.Form1.resources
+C:\Users\PC\source\repos\come334-hw1-20170301006-TuğraGündüz\come334-hw1-20170301006-TuğraGündüz\obj\Debug\come334_hw1_20170301006_TuğraGündüz.Properties.Resources.resources
+C:\Users\PC\source\repos\come334-hw1-20170301006-TuğraGündüz\come334-hw1-20170301006-TuğraGündüz\obj\Debug\come334-hw1-20170301006-TuğraGündüz.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\come334-hw1-20170301006-TuğraGündüz\come334-hw1-20170301006-TuğraGündüz\obj\Debug\come334-hw1-20170301006-TuğraGündüz.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\come334-hw1-20170301006-TuğraGündüz\come334-hw1-20170301006-TuğraGündüz\obj\Debug\come334-hw1-20170301006-TuğraGündüz.exe
+C:\Users\PC\source\repos\come334-hw1-20170301006-TuğraGündüz\come334-hw1-20170301006-TuğraGündüz\obj\Debug\come334-hw1-20170301006-TuğraGündüz.pdb
